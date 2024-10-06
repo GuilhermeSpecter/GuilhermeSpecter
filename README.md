@@ -1,4 +1,4 @@
-### Olá EU sou o guilherme
+### Olá, EU sou o Guilherme
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
