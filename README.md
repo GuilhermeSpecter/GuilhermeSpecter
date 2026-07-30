@@ -34,22 +34,13 @@ $ nmap --skills -A
 </div>
 $ ping -c 4 social.networks
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/guilhermesilvadossantos/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117">
   </a>
-  <a href="https://twitter.com/SEU_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117">
-  </a>
-  <a href="https://tryhackme.com/p/SEU_USERNAME">
+  <a href="https://tryhackme.com/p/GuilhermeS.E">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117">
   </a>
-  <a href="https://app.hackthebox.com/profile/SEU_ID">
+  <a href="https://app.hackthebox.com/profile/019faf70-49a2-734b-90d1-dab47cd8667b">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black&labelColor=0D1117">
-  </a>
-  <a href="https://medium.com/@SEU_MEDIUM">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117">
-  </a>
-  <a href="https://dev.to/SEU_DEVTO">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0D1117">
   </a>
 </div>
