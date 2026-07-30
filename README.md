@@ -40,7 +40,7 @@ $ ping -c 4 social.networks
   <a href="https://tryhackme.com/p/GuilhermeS.E">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117">
   </a>
-  <a href="https://app.hackthebox.com/profile/019faf70-49a2-734b-90d1-dab47cd8667b">
+  <a href="https://profile.hackthebox.com/profile/019faf70-49a2-734b-90d1-dab47cd8667b">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black&labelColor=0D1117">
   </a>
 </div>
