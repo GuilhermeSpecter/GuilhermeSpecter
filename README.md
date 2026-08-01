@@ -45,3 +45,7 @@ $ ping -c 4 social.networks
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black&labelColor=0D1117">
   </a>
 </div>
+<div align="center">
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:0D1117,100:000000&height=120&section=footer&animation=fadeIn" />
+</div>
