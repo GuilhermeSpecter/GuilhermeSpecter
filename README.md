@@ -15,7 +15,7 @@ $ nmap --skills -A
 <div align="center">
 🛠️ LANGUAGES & FRAMEWORKS
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,go,rust,c,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,js,html,css&theme=dark" />
 </p>
 ⚔️ SECURITY TOOLS
 <p>
