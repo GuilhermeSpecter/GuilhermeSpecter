@@ -19,7 +19,7 @@ $ nmap --skills -A
 </p>
 ⚔️ SECURITY TOOLS
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,wazuh,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,azure&theme=dark" />
 </p>
 🔧 ADDITIONAL TOOLS
 <p>
@@ -27,10 +27,6 @@ $ nmap --skills -A
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1a1a1a">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1a1a1a">
   <img src="https://img.shields.io/badge/Nmap-0000FF?style=for-the-badge&logo=nmap&logoColor=white&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/SQLMap-FF0000?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/Nessus-00C7B7?style=for-the-badge&logo=tenable&logoColor=white&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1a1a1a">
 </p>
 </div>
 $ ping -c 4 social.networks
