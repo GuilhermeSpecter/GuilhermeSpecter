@@ -19,7 +19,7 @@ $ nmap --skills -A
 </p>
 ⚔️ SECURITY TOOLS
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,aws,gcp,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,wazuh,azure&theme=dark" />
 </p>
 🔧 ADDITIONAL TOOLS
 <p>
